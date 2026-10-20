@@ -1,5 +1,5 @@
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&fp=firefox&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#FREE_SC4RUSS
 vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&fp=chrome&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#FREE_SC4RUSS
+vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&fp=firefox&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#FREE_SC4RUSS
 vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#FREE_SC4RUSS
 vless://0be0a2bf-aa20-4e52-aa5a-3d59d56b1582@217.60.245.79:2083?security=reality&pbk=2Myl1Tpd_ohpwZ1yzIWsz7CwqdUH12b0wIh7HLvhnyE&type=raw&flow=xtls-rprx-vision&sni=ge-2.underground.company&sid=17928540d08ad70f&fp=qq#FREE_SC4RUSS
 vless://0be0a2bf-aa20-4e52-aa5a-3d59d56b1582@31.77.114.106:2083?security=reality&pbk=gZcsjt2y2qy_cC0IaojmXWKLZspJFmXfZeEzQc1Rmxg&type=raw&flow=xtls-rprx-vision&sni=nlss.underground.company&sid=deb429a987492be2&fp=ios#FREE_SC4RUSS
@@ -13,3 +13,4 @@ vless://6338c01a-310e-42c3-bf4f-2a20e161054b@213.165.56.102:443?security=reality
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@213.165.56.102:443?security=reality&sni=freede.aiage.work&fp=firefox&pbk=A_bQLZE6D32TJUdAf9doQTPaTUXyJjPXLSklplG4V1g&sid=57e7977c9011061c&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://4b09d40d-e36a-47c3-baa4-e6bf551b3183@31.59.217.164:443?security=reality&sni=www.adobe.com&fp=firefox&pbk=kOkILS7UXUQDNPLYn4SQ65kMIWKXNOttV5Kddw4ZqTo&sid=1625a2a79d01328f&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://b91d8200-1b39-41d2-bca0-9ac1a079cd91@bridge.nurcloud.org:443?security=reality&encryption=none&pbk=ds-unSW4f8mhJ5CVtkGQ-7GSPQJ3zoEs1qbXsU76I2c&headerType=&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eg.api.nurcloud.org&sid=811f57d83ace01ec&fp=firefox#FREE_SC4RUSS
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
