@@ -1,7 +1,7 @@
-vless://ca59a503-db23-44af-9879-49747d8da98f@test.wecantos.site:20000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&sni=iosapps.itunes.apple.com&fp=ios&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&sid=25c79e5856c7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://4b09d40d-e36a-47c3-baa4-e6bf551b3183@31.59.217.164:443?security=reality&sni=www.adobe.com&fp=chrome&pbk=kOkILS7UXUQDNPLYn4SQ65kMIWKXNOttV5Kddw4ZqTo&sid=1625a2a79d01328f&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
+vless://ca59a503-db23-44af-9879-49747d8da98f@test.wecantos.site:20000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://4b09d40d-e36a-47c3-baa4-e6bf551b3183@31.59.217.164:443?security=reality&sni=www.adobe.com&fp=firefox&pbk=kOkILS7UXUQDNPLYn4SQ65kMIWKXNOttV5Kddw4ZqTo&sid=1625a2a79d01328f&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://3acb386b-fdd7-4bc9-911f-159fdcd834ce@9f6635t.msk1.h1clayd.click:443?security=reality&sni=9f6635t.msk1.h1clayd.click&fp=firefox&pbk=aovrqfVIxA_POvJorIg05wBQJM9nZ859c0fsNL7v9RM&sid=0ea5f9d7955c3971&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
