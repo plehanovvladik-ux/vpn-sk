@@ -1,6 +1,3 @@
-vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.160.140.118:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#FREE_SC4RUSS
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://2f5cfa10-43e5-4912-800d-557308a26a29@45.95.98.135:443?type=tcp&headerType=none&security=reality&encryption=none&sni=8g6zbdoai3lb.cloudydigital.net&fp=firefox&pbk=8MkHK9vGRtOA97_ag2qUoru4ONKe3W6r7SR1UtIKiWU&sid=c1c6c4326b5b&spx=%2F&flow=xtls-rprx-vision#FREE_SC4RUSS
 vless://ca59a503-db23-44af-9879-49747d8da98f@test.wecantos.site:20000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
