@@ -1,6 +1,5 @@
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://8c8a8681-5444-4e18-a427-54f19eea6a77@45.11.27.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mJkx2aIzeXMsdR38oCpeGX4r5Siq4__nb0I4gk1-wVM&security=reality&sni=litva2.ovhpride.shop&type=raw#FREE_SC4RUSS
 vless://cad0732d-21c2-4adf-9200-00995e67586a@81.163.22.35:8443?encryption=none&fp=firefox&mode=gun&pbk=e6rP8xM5lq0nZ_Ni7XRO3EXC3sJU_pEeDmzJC-3gPTA&security=reality&sid=b434ffe063bb60&sni=load.videostreamer.ru&spx=%2F&type=grpc#FREE_SC4RUSS
 vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=qq#FREE_SC4RUSS
@@ -11,3 +10,4 @@ vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none
 vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=reality&sni=music.apple.com&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=xhttp&path=%2F&mode=auto&encryption=none&fp=safari#FREE_SC4RUSS
 vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=reality&sni=music.apple.com&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&type=xhttp&path=%2F&mode=auto&fp=chrome#FREE_SC4RUSS
 vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=reality&sni=music.apple.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&type=xhttp&path=%2F&mode=auto#FREE_SC4RUSS
+vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=ios#FREE_SC4RUSS
