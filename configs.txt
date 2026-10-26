@@ -1,4 +1,3 @@
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://8c8a8681-5444-4e18-a427-54f19eea6a77@45.11.27.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mJkx2aIzeXMsdR38oCpeGX4r5Siq4__nb0I4gk1-wVM&security=reality&sni=litva2.ovhpride.shop&type=raw#FREE_SC4RUSS
 vless://cad0732d-21c2-4adf-9200-00995e67586a@81.163.22.35:8443?encryption=none&fp=firefox&mode=gun&pbk=e6rP8xM5lq0nZ_Ni7XRO3EXC3sJU_pEeDmzJC-3gPTA&security=reality&sid=b434ffe063bb60&sni=load.videostreamer.ru&spx=%2F&type=grpc#FREE_SC4RUSS
