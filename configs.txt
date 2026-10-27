@@ -1,6 +1,6 @@
+vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&sid=25c79e5856c7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://d4353076-3ec7-47dc-88b0-f21eb59fbfb8@193.160.140.159:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&fp=firefox#FREE_SC4RUSS
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?security=reality&sni=www.chip.de&fp=&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
@@ -10,3 +10,4 @@ vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@185.105.108.176:443?type=tcp&header
 vless://f439e4fe-139b-4882-ad8b-a16176d09c88@212.193.31.221:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&type=tcp&sni=eu30.cdn77.icu&sid=1ed136481e0ede74&fp=firefox#FREE_SC4RUSS
 vless://f439e4fe-139b-4882-ad8b-a16176d09c88@212.193.31.221:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&type=tcp&sni=eu30.cdn77.icu&sid=1ed136481e0ede74&fp=ios#FREE_SC4RUSS
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&sni=www.lamer.com.sg&fp=safari&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&sid=28f5c1f8f98a&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
