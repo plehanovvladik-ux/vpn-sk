@@ -1,8 +1,9 @@
-vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=reality&sni=music.apple.com&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=xhttp&path=%2F&mode=auto&encryption=none&fp=chrome#FREE_SC4RUSS
-vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?encryption=none&mode=auto&path=%2F&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sid=10a59b0a94367ac2&sni=music.apple.com&type=xhttp&fp=ios#FREE_SC4RUSS
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&sid=25c79e5856c7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
 vless://d4353076-3ec7-47dc-88b0-f21eb59fbfb8@193.160.140.159:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&fp=firefox#FREE_SC4RUSS
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?security=reality&sni=www.chip.de&fp=&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#FREE_SC4RUSS
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=finlandlanzarotte.live&fp=qq&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&flow=xtls-rprx-vision#FREE_SC4RUSS
