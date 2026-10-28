@@ -1,4 +1,3 @@
-vless://f439e4fe-139b-4882-ad8b-a16176d09c88@212.193.31.221:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&type=tcp&sni=eu30.cdn77.icu&sid=1ed136481e0ede74&fp=ios#FREE_SC4RUSS
 vless://eaa34d9f-662d-4378-8210-3508b5eee727@backend.getsavesafe.space:443?encryption=none&type=xhttp&security=reality&fp=firefox&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&sni=backend.getsavesafe.space&sid=62b6d6e64d461d78#FREE_SC4RUSS
 vless://f439e4fe-139b-4882-ad8b-a16176d09c88@212.193.31.221:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&type=tcp&sni=eu30.cdn77.icu&sid=1ed136481e0ede74&fp=firefox#FREE_SC4RUSS
 vless://eaa34d9f-662d-4378-8210-3508b5eee727@ftp.getsavesafe.space:443?encryption=none&type=xhttp&security=reality&fp=firefox&pbk=LPnxZINI0btPibTaBBXo-gywxmZ9q3f391YyLPcolzU&sni=ftp.getsavesafe.space&sid=62b6d6e64d461d71#FREE_SC4RUSS
