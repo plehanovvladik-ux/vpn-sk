@@ -1,6 +1,5 @@
-vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:34760?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=FKkMWruW5ySd0t091irE_09B9o9AipV8ztZftd4Odwc&sid=ab58b04c4a4407&sni=updates.cdn-apple.com&servername=updates.cdn-apple.com&fp=ios#FREE_SC4RUSS
-vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@90.156.230.179:443?security=reality&encryption=none&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz-cdn-prsv-forum.keno.su&sid=14324280#FREE_SC4RUSS
 vless://fdd162f9-1393-4229-a31c-ec5263b918ad@34.3.101.225:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x1ql3ShHUiyfMiA9_49FPY7ZV5Oqw2LcZPI9CUIlQQg&security=reality&sni=dl.google.com&type=tcp#FREE_SC4RUSS
+vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@90.156.230.179:443?security=reality&encryption=none&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz-cdn-prsv-forum.keno.su&sid=14324280#FREE_SC4RUSS
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=safari#FREE_SC4RUSS
 vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@196.245.52.188:443?encryption=none&pbk=UTK3fM9wiII4uIcBYUYJwppN1HezxBPhxPfIxDHZqj4&security=reality&sid=ce43937e79bc30f0&sni=62981et.us11.h1clayd.click&type=tcp&fp=safari#FREE_SC4RUSS
 vless://3c821552-97f0-42d1-bb1a-adc67a637d9e@yoni.dobryak.online:443?encryption=none&security=reality&type=tcp&sni=ebay.de&fp=chrome&pbk=r0DQs82BcdfowCDyVJ05lRNuMarpjEJfl5a14La6ZW4&flow=xtls-rprx-vision#FREE_SC4RUSS
@@ -11,3 +10,4 @@ vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:34759?encryptio
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:43113?security=reality&type=tcp&sni=v1-dy.ixigua.com&host=v1-dy.ixigua.com&flow=xtls-rprx-vision&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs&sid=ff2c978a0b&fp=random#FREE_SC4RUSS
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:34759?encryption=none&security=reality&sni=v1-dy.ixigua.com&pbk=H0AETHQQIsu1c7ZHZ5RUgNaLYIVdMI6gJlMaBLBeX3o&sid=5e0eb283246c6911&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision&fp=chrome#FREE_SC4RUSS
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=chrome#FREE_SC4RUSS
+vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:34759?encryption=none&security=reality&sni=v1-dy.ixigua.com&pbk=H0AETHQQIsu1c7ZHZ5RUgNaLYIVdMI6gJlMaBLBeX3o&sid=5e0eb283246c6911&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision&fp=safari#FREE_SC4RUSS
