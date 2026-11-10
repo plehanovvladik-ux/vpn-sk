@@ -1,7 +1,6 @@
-vless://f877d913-9f87-45dd-bfe8-d95043081184@8.220.241.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&pbk=jSvhKKNVMhMQOCERpOyPwfNkzMnHQExIua0oWRdbuB8#FREE_SC4RUSS
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=music.3apes.online&fp=qq&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&flow=xtls-rprx-vision#FREE_SC4RUSS
 vless://855c7aaa-e7d6-463e-971e-d36032744428@159.195.207.238:49313?encryption=none&security=none&type=tcp#FREE_SC4RUSS
 vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@15d7fft.nl11.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=15d7fft.nl11.h1clayd.click&fp=firefox&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&sid=c71118d9399fb8c2&host=15d7fft.nl11.h1clayd.click#FREE_SC4RUSS
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=music.3apes.online&fp=qq&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&flow=xtls-rprx-vision#FREE_SC4RUSS
 vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sg-sin.probe.geomyip.com&fp=chrome&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&sid=2e96bf6afa823abb&type=tcp&headerType=none&host=sg-sin.probe.geomyip.com#FREE_SC4RUSS
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=qq#FREE_SC4RUSS
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=chrome#FREE_SC4RUSS
